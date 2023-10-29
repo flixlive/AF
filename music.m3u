@@ -1,3 +1,4 @@
+#EXTM3U
 #EXTINF:-1 tvg-logo="https://imgur.com/WvCRq1n.png " ,Melody TV
 https://live.creacast.com/telemelody/smil:telemelody-211112.smil/master.m3u8
 #EXTINF:-1 tvg-logo=" https://www.coolstreaming.us/img/ch/image5696384608.jpg " , Trace Latina
@@ -34,3 +35,53 @@ http://edge16.vedge.infomaniak.com/livecast/ik:bblackcaribbean/chunklist_w123648
 http://edge11.vedge.infomaniak.com/livecast/ik:bblackclassik/chunklist_w354492575.m3u8
 #EXTINF:-1 tvg-logo=" https://www.tv-direct.fr/assets/logo/chaines/bblack-africa.jpg " ,BBlack AFRICA
 http://edge19.vedge.infomaniak.com/livecast/ik:bblackafrica/chunklist_w1620695393.m3u8
+#EXTINF:-1 tvg-logo=" https://www.tv-direct.fr/assets/logo/chaines/bblack-caribbean.jpg " ,BBlack Caribean
+http://edge16.vedge.infomaniak.com/livecast/ik:bblackcaribbean/chunklist_w1236483866.m3u8
+#EXTINF:-1 tvg-logo=" https://www.tv-direct.fr/assets/logo/chaines/bblack-classik.jpg " ,BBlack Classic
+http://edge11.vedge.infomaniak.com/livecast/ik:bblackclassik/chunklist_w354492575.m3u8
+#EXTINF:-1 tvg-logo=" https://www.tv-direct.fr/assets/logo/chaines/bblack-africa.jpg " ,BBlack AFRICA
+http://edge19.vedge.infomaniak.com/livecast/ik:bblackafrica/chunklist_w1620695393.m3u8
+#EXTINF:-1 group-title="Music" tvg-logo="https://cdn.mitvstatic.com/channels/ar_musictop_m.png",MusicTop (720p)
+http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8
+#EXTINF:-1 group-title="Music" tvg-logo="https://i.imgur.com/qiCCX5X.png",Now 70's
+https://lightning-now70s-samsungnz.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="Music" tvg-logo="https://i.imgur.com/YyPnMeB.png",Now 80's
+https://lightning-now80s-samsungnz.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="Music" tvg-logo="https://i.imgur.com/yo8lEu1.png",Now 90's
+https://lightning-now90s-samsungnz.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="RotanaMusic.sa" tvg-logo="https://i.imgur.com/2zFQbQi.png" group-title="Music",Rotana Music (1080p)
+https://daiconnect.com/live/hls/rotana/music/.m3u8
+#EXTINF:-1 , tvg-logo="https://seeklogo.com/images/M/mazzika-logo-C24180B57A-seeklogo.com.png" ,Mazzika
+http://185.236.229.50:8003/play/a01p
+#EXTINF:-1 group-title="Music" tvg-logo="https://i.imgur.com/4Ww7CsR.png",1HD Music Television (404p) [Not 24/7]
+https://sc.id-tv.kz/1hd.m3u8
+#EXTINF:-1 group-title="Music" tvg-logo="https://i.imgur.com/GDUykah.png",Mosaïque FM (480p) [Not 24/7]
+https://webcam.mosaiquefm.net:1936/mosatv/studio/playlist.m3u8
+#EXTINF:-1 group-title="Music" tvg-logo="https://mbc-mood.s3.amazonaws.com/channels/16439614501635428726MBCfmmob.png" ,MBC FM
+https://mbcfm-riyadh-prod-dub.shahid.net/out/v1/69c8a03f507e422f99cf5c07291c9e3a/index_5.m3u8
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/ar/5/51/Wanasah.png" , WANASAH
+https://shls-wanasah-prod-dub.shahid.net/out/v1/c84ef3128e564b74a6a796e8b6287de6/index.m3u8
+#EXTINF:-1  tvg-logo="http://www.vodkom.com:25461/Logo/ARABSAUDIA/Rotana_Khalijeah_HD.png" , ROTANA KHALIJIA
+https://shls-rotanakhalijia-prod-dub.shahid.net/out/v1/a639fd49db684f1b8c063d398101a888/index_2.m3u8
+#EXTINF:-1  tvg-logo="https://pbs.twimg.com/profile_images/1558106902428635136/CZFjl27U_400x400.jpg" , falestini
+https://cdg8.edge.technocdn.com/palestiniantv_source/live/playlist.m3u8
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/One_TV_Logo.svg/1024px-One_TV_Logo.svg.png" , one tv 
+https://live.3cd.io/v1/broadcast/one/playlist.m3u8
+#EXTINF:-1  tvg-logo="http://vodkom.com:25461/Logo/ARABEGYPT/NOGOUM_FM_TV.png" , Nogoum TV
+https://nogoumtv.nrpstream.com/hls/0/stream.m3u8
+#EXTINF:-1 group-title="Music" tvg-logo="https://i.imgur.com/1UkxzGL.png",A2i Music (720p) [Not 24/7]
+https://stream.sen-gt.com/A2iMusic/myStream/playlist.m3u8
+#EXTINF:-1 group-title="Music" tvg-logo="https://i.imgur.com/232ndRK.png",Afrobeats (1080p)
+https://stream.ecable.tv/afrobeats/index.m3u8
+#EXTINF:-1 group-title="Music" tvg-logo="https://i.ibb.co/7bQ1nq3/11591447-46ac-487e-ac65-d8c20a5d18a0.jpg",B4U Hitz (576p)
+http://183.89.246.119:8881/play/a08l/index.m3u8
+#EXTINF:-1 group-title="Music" tvg-logo="https://i.imgur.com/KSxPLJA.png",B4U Music India (576p)
+http://183.89.246.119:8881/play/a08o/index.m3u8
+#EXTINF:-1 group-title="Music" tvg-logo="https://i.imgur.com/Cx5V233.jpg",Hits 360 TV (720p) [Not 24/7]
+http://cm.hostlagarto.com:8081/hits360tv/hits360HD.myStream/playlist.m3u8
+#EXTINF:-1 group-title="Music" tvg-logo="https://i.imgur.com/G5mNdpE.png",Impact TV Dance (1080p)
+http://tvradioimpact.go.ro:8080/tmp_hls/tvimpact/index.m3u8
+#EXTINF:-1 group-title="Music" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f8/MTV_00s_remaster.png",MTV 00s (576p)
+http://195.24.89.82/VH1_SD/index.m3u8
+#EXTINF:-1 group-title="Music" tvg-logo="https://i.imgur.com/0zJi12h.png",TV HD Tropical (720p)
+https://cloud3.streaminglivehd.com:1936/8068/8068/playlist.m3u8
