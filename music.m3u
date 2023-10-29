@@ -5,6 +5,8 @@ https://live.creacast.com/telemelody/smil:telemelody-211112.smil/master.m3u8
 https://d3b13j525hja2q.cloudfront.net/23073/Latina/encrypted/1/prog_index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/L6mHWUK.png " ,Trace urban
 https://lightning-traceurban-samsungau.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-ID="mtv.fr" tvg-name="|FR| MTV FRANCE FHD" tvg-logo="http://vodkom.com:25461/Logo/FRANCE/MUSIC/MTV.png" group-title="FRANCE MUSIQUE", MTV 
+http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS02/master_2400.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/G2lNWTN.png " ,Play tv
 http://connectiktv.ddns.net:5000/playtv/@playtv/playlist.m3u8	
 #EXTINF:-1 tvg-logo="https://imgur.com/3oFjw4D.png " ,TMA Music
