@@ -1,4 +1,66 @@
 #EXTM3U
+#EXTINF:-1 tvg-ID="tf1.fr" tvg-name="|FR| TF1 " tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_2460_440_1_C00000_0_0_0.png" group-title="FRANCE TNT",|FR| TF1 
+http://livetv.ktv.zone/103/play.m3u8
+#EXTINF:-1 tvg-ID="france2.fr" tvg-name="|FR| FRANCE 2 " tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_245A_440_1_C00000_0_0_0.png" group-title="FRANCE TNT",|FR| FRANCE 2 
+http://livetv.ktv.zone/104/play.m3u8
+#EXTINF:-1 tvg-ID="france3.fr" tvg-name="|FR| FRANCE 3 " tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_245D_440_1_C00000_0_0_0.png" group-title="FRANCE TNT",|FR| FRANCE 3 
+http://livetv.ktv.zone/105/play.m3u8
+#EXTINF:-1 tvg-ID="france4.fr" tvg-name="|FR| FRANCE 4 " tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_21FD_44C_1_C00000_0_0_0.png" group-title="FRANCE TNT",|FR| FRANCE 4 
+http://livetv.ktv.zone/116/play.m3u8
+#EXTINF:-1 tvg-ID="france5.fr" tvg-name="|FR| FRANCE 5 " tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_2330_442_1_C00000_0_0_0.png" group-title="FRANCE TNT",|FR| FRANCE 5 
+http://livetv.ktv.zone/107/play.m3u8
+#EXTINF:-1 tvg-ID="arte.fr" tvg-name="|FR| ARTE " tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_2081_432_1_C00000_0_0_0.png" group-title="FRANCE TNT",|FR| ARTE 
+http://livetv.ktv.zone/109/play.m3u8
+#EXTINF:-1 tvg-ID="m6.fr" tvg-name="|FR| M6 " tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_2457_440_1_C00000_0_0_0.png" group-title="FRANCE TNT",|FR| M6 
+http://livetv.ktv.zone/118/play.m3u8
+#EXTINF:-1 tvg-ID="6ter.fr" tvg-name="|FR| 6TER " tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_1F4B_42E_1_C00000_0_0_0.png" group-title="FRANCE TNT",|FR| 6TER 
+http://livetv.ktv.zone/24/play.m3u8
+#EXTINF:-1 tvg-ID="w9.fr" tvg-name="|FR| W9 " tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_2458_440_1_C00000_0_0_0.png" group-title="FRANCE TNT",|FR| W9 
+http://livetv.ktv.zone/111/play.m3u8
+#EXTINF:-1 tvg-ID="nrj12.fr" tvg-name="|FR| NRJ12 " tvg-logo="http://www.vodkom.com:25461/images/Atlantic_5w/1_0_19_1A1_4FB0_55F_DDE0000_0_0_0.png" group-title="FRANCE TNT",|FR| NRJ12 
+http://livetv.ktv.zone/114/play.m3u8
+#EXTINF:-1 tvg-ID="tfx.fr" tvg-name="|FR| TFX " tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_2014_430_1_C00000_0_0_0.png" group-title="FRANCE TNT",|FR| TFX 
+http://livetv.ktv.zone/113/play.m3u8
+#EXTINF:-1 tvg-ID="tf1seriesfilms.fr" tvg-name="|FR| TF1 SERIES FILMS " tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_232B_442_1_C00000_0_0_0.png" group-title="FRANCE TNT",|FR| TF1 SERIES FILMS 
+http://livetv.ktv.zone/122/play.m3u8
+#EXTINF:-1 tvg-ID="c8.fr" tvg-name="|FR| C8 " tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_2334_442_1_C00000_0_0_0.png" group-title="FRANCE TNT",|FR| C8 
+http://livetv.ktv.zone/110/play.m3u8
+#EXTINF:-1 tvg-ID="cstar.fr" tvg-name="|FR| CSTAR " tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_2335_442_1_C00000_0_0_0.png " group-title="FRANCE TNT",|FR| CSTAR 
+http://livetv.ktv.zone/19/play.m3u8
+#EXTINF:-1 tvg-ID="tmc.fr" tvg-name="|FR| TMC " tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_2015_430_1_C00000_0_0_0.png" group-title="FRANCE TNT",|FR| TMC 
+http://livetv.ktv.zone/112/play.m3u8
+#EXTINF:-1 tvg-ID="rmcstory.fr" tvg-name="|FR| RMC STORY " tvg-logo="http://www.vodkom.com:25461/images/Atlantic_5w/1_0_19_A05_A_20FA_DDE0000_0_0_0.png" group-title="FRANCE TNT",|FR| RMC STORY 
+http://livetv.ktv.zone/25/play.m3u8
+#EXTINF:-1 tvg-ID="cherie25.fr" tvg-name="|FR| CHERIE 25 " tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_1_2F6D_454_1_C00000_0_0_0.png" group-title="FRANCE TNT",|FR| CHERIE 25 
+http://livetv.ktv.zone/27/play.m3u8
+#EXTINF:-1 tvg-ID="lequipe21.fr" tvg-name="|FR| L EQUIPE 21 SD" tvg-logo="http://www.vodkom.com:25461/Logo/FRANCE_SPORT/L_EQUIPE.png" group-title="FRANCE SPORTS",|FR| L EQUIPE 21 SD
+http://livetv.ktv.zone/23/play.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4a/L%27Equipe_logo.png" group-title="Sport",L'Equipe live 1
+https://d3awaj0f2u3w26.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-gy7euubgydp20-ssai-prd/8fd3efae-4468-4ca0-9486-c6cdcb7b65d7/2.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4a/L%27Equipe_logo.png" group-title="Sport",L'Equipe live 2
+https://d2l55nvfkhk4sg.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-jg7go1lqzgpny-ssai-prd/435d04a5-ab47-47c5-a2c1-bae01ae6d0c1/2.m3u8
+#EXTINF:-1 tvg-ID="rmcdecouverte.fr" tvg-name="|FR| RMC DECOUVERTE SD" tvg-logo="http://vodkom.com:25461/Logo/FRANCE/DECOUVERTE/RMC_DECOUVERTE.png" group-title="FRANCE DECOUVERTE",|FR| RMC DECOUVERTE SD
+http://livetv.ktv.zone/26/play.m3u8
+#EXTINF:-1 tvg-id="FRBA2200007G7" tvg-chno="4271" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/12/FRBA2200007G7_20210414T024633.png" group-title="Jeunesse",ADN
+https://amg00762-adn-adn-rakuten-jnwoo.amagi.tv/hls/amagi_hls_data_rakutenAA-adn-rakuten/CDN/master.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/f/f2/Logo_TiJi_%282019%29.png/640px-Logo_TiJi_%282019%29.png" group-title="Jeunesse",TIJI
+https://shls-tiji-tv-prod-dub.shahid.net/out/v1/98f46736bd8c4404b67e4b7a38cc8976/index.m3u8
+#EXTINF:-1 tvg-ID="lci.fr" tvg-name="|FR| LCI FHD" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_2331_442_1_C00000_0_0_0.png" group-title="FRANCE INFOS",|FR| LCI FHD
+http://livetv.ktv.zone/28/play.m3u8
+#EXTINF:-1 tvg-logo="https://www.francetvpub.fr/wp-content/uploads/2022/01/maisontravauxtv-300x150.png" group-title="DOCUMENTAIRE",Maison & Travaux TV
+https://d387lnkgycbwl.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-sdi2aweg8u1y4/761cde02-1df4-4a1a-ad50-7033ede188ef/2.m3u8
+#EXTINF:-1 tvg-logo="https://s3-eu-west-1.amazonaws.com/static.media.info/l/o/7/7072.1517057409.png" group-title="GENERALISTE",RTS Un
+http://livetv.ktv.zone/101/play.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f9/RTS2_logo_20.png" group-title="GENERALISTE",RTS Deux
+http://livetv.ktv.zone/102/play.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/T%C3%A9l%C3%A9-Qu%C3%A9bec_logo.svg/1024px-T%C3%A9l%C3%A9-Qu%C3%A9bec_logo.svg.png" group-title="GENERALISTE",Télé-Quebec
+https://bcovlive-a.akamaihd.net/575d86160eb143458d51f7ab187a4e68/us-east-1/6101674910001/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/e/e7/Gong_%28cha%C3%AEne_de_t%C3%A9l%C3%A9vision%29_Logo.png/178px-Gong_%28cha%C3%AEne_de_t%C3%A9l%C3%A9vision%29_Logo.png" group-title="GENERALISTE",Gong
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01596-gongnetworks-gong-samsungfr/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://logos-download.com/wp-content/uploads/2016/06/Televisa_logo_orange-yellow.png" group-title="GENERALISTE",Novelas Televisa
+https://40413a8d4fab4568b22187b5d7cd15c9.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-fr_Televisa/playlist.m3u8?ads.wurl_channel=820&ads.wurl_name=Televisa&ads.coppa=0&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/lib/exe/fetch.php?w=63&h=47&tok=2d9005&media=https%3A%2F%2Fwww.mundoplus.tv%2Fwiki%2F_media%2Flogos%2Fstormcastnov.png" group-title="GENERALISTE",Stormcast Novelas
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f914f9dccb4de0007df8bc4/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 #EXTINF:-1 ,BBC Drama
 https://bbceu-bbcdrama-1-fr.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 ,Caillou
