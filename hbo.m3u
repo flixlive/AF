@@ -1,0 +1,15 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="hbohd" group-title="🎞| HBO" tvg-logo="https://cdn.iconscout.com/icon/free/png-256/free-hbo-282669.png", HBO HD
+http://185.188.188.235/live/hbo/playlist.m3u8
+#EXTINF:-1 tvg-id="hbofamilyhd-asia" group-title="🎞| HBO" tvg-logo="https://www.logotypes101.com/logos/918/EFC0F520437F925D627FFF16FAA1B604/tn_hbo2.png", HBO Family HD
+http://185.188.188.235/live/hbo2/playlist.m3u8
+#EXTINF:-1 tvg-id="hbohitshd-asia" group-title="🎞| HBO" tvg-logo="https://www.sat-charts.eu/img/hbo3hd.jpg", HBO Hits HD
+http://185.188.188.235/live/hbo3/playlist.m3u8
+#EXTINF:-1 tvg-id="hbohd" group-title="🎞| HBO" tvg-logo="https://static.wikia.nocookie.net/newlogosfake/images/f/f4/HBOMundiLA2020.png",hbo mundi
+http://208.115.225.174:14148
+#EXTINF:-1 tvg-id="hbohd" group-title="🎞| HBO" tvg-logo="https://seeklogo.com/images/H/hbo-xtreme-logo-D424105400-seeklogo.com.png",hbo extreme
+http://208.115.225.174:14165
+#EXTINF:-1 tvg-id="hbohd" group-title="🎞| HBO" tvg-logo="https://cdn.iconscout.com/icon/free/png-256/free-hbo-282669.png",hbo
+http://208.115.225.174:14136
+#EXTINF:-1 tvg-id="hbohd" group-title="🎞| HBO" tvg-logo="https://mir-s3-cdn-cf.behance.net/projects/max_808/11355023.548145c7b7edf.jpg",hbo signature
+http://208.115.225.174:14160
