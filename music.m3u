@@ -1,25 +1,25 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://imgur.com/WvCRq1n.png " ,Melody TV
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/Melody_logo_2013.png" ,Melody TV
 https://live.creacast.com/telemelody/smil:telemelody-211112.smil/master.m3u8
-#EXTINF:-1 tvg-logo=" https://www.coolstreaming.us/img/ch/image5696384608.jpg " , Trace Latina
+#EXTINF:-1 tvg-logo="https://alloforfait.fr/wp-content/uploads/2019/05/trace-latina.jpg" , Trace Latina
 https://d3b13j525hja2q.cloudfront.net/23073/Latina/encrypted/1/prog_index.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/L6mHWUK.png " ,Trace urban
+#EXTINF:-1 tvg-logo="https://www.planetecsat.com/wp-content/uploads/2022/11/trac-1.png" ,Trace urban
 https://lightning-traceurban-samsungau.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-ID="mtv.fr" tvg-name="|FR| MTV FRANCE FHD" tvg-logo="http://vodkom.com:25461/Logo/FRANCE/MUSIC/MTV.png" group-title="FRANCE MUSIQUE", MTV 
+#EXTINF:-1 tvg-ID="mtv.fr" tvg-name="|FR| MTV FRANCE FHD" tvg-logo="https://i.pinimg.com/736x/62/8d/fa/628dfa44a2c13df943a99df8b913f60f.jpg" group-title="FRANCE MUSIQUE", MTV 
 http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS02/master_2400.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/G2lNWTN.png " ,Play tv
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/53/Play_TV.jpg" ,Play tv
 http://connectiktv.ddns.net:5000/playtv/@playtv/playlist.m3u8	
-#EXTINF:-1 tvg-logo="https://imgur.com/3oFjw4D.png " ,TMA Music
+#EXTINF:-1 tvg-logo="https://www.coolstreaming.us/img/ch/image2391130104.jpg" ,TMA Music
 http://hls.tmacaraibes.com/live/index.m3u8
-#EXTINF:-1 tvg-logo=" https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/VH1_logonew.svg/512px-VH1_logonew.svg.png " ,vh1
+#EXTINF:-1 tvg-logo="https://logowik.com/content/uploads/images/vh12800.logowik.com.webp" ,vh1
 https://content.uplynk.com/channel/36953f5b6546464590d2fcd954bc89cf.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/ISVFcVR.png" ,VEVO 2K
+#EXTINF:-1 tvg-logo="https://logowik.com/content/uploads/images/vevo9952.jpg" ,VEVO 2K
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fd7bca3e0a4ee0007a38e8c/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
-#EXTINF:-1 tvg-logo="https://imgur.com/ISVFcVR.png" ,VEVO raggaeton
+#EXTINF:-1 tvg-logo="https://logowik.com/content/uploads/images/vevo9952.jpg" ,VEVO raggaeton
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f32f397795b750007706448/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
-#EXTINF:-1 tvg-logo="https://imgur.com/ISVFcVR.png" ,VEVO R&B
+#EXTINF:-1 tvg-logo="https://logowik.com/content/uploads/images/vevo9952.jpg" ,VEVO R&B
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5da0d83f66c9700009b96d0e/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
-#EXTINF:-1 tvg-logo="https://imgur.com/ISVFcVR.png " ,VEVO country
+#EXTINF:-1 tvg-logo="https://logowik.com/content/uploads/images/vevo9952.jpg" ,VEVO country
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5da0d75e84830900098a1ea0/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 #EXTINF:-1 tvg-logo="https://imgur.com/d9D3B28.png" ,stingray classical rock
 https://ott-linear-channels.stingray.com/v1/master/734895816ccb1e836f8c1e81f772244d9be0077c/101/master.m3u8
@@ -29,20 +29,34 @@ https://ott-linear-channels.stingray.com/hls/stirr/102.m3u8
 https://ott-linear-channels.stingray.com/hls/stirr/102.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/d9D3B28.png " ,stingray urban
 https://ott-linear-channels.stingray.com/hls/stirr/102.m3u8
-#EXTINF:-1 tvg-logo=" https://i.imgur.com/8giAFx5.png " ,Clubbing 
+#EXTINF:-1 tvg-id="externallinearfeed-12-04-2019-173904669-12-04-2019" tvg-chno="404" tvg-logo="https://www.stingray.com/sites/www.stingray.com/files/entertainment_products/logos/stingray-music-white-vertical.png" group-title="STIRR",Stingray Greatest Hits
+https://dai.google.com/linear/hls/event/_2NUNA_qTSyd70FTD_lqyw/master.m3u8
+#EXTINF:-1 tvg-id="externallinearfeed-12-06-2019-12-06-2019" tvg-chno="405" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/9e/Stingray_Hits.png" group-title="STIRR",Stingray Hit List
+https://ott-linear-channels.stingray.com/hls/stirr/107.m3u8
+#EXTINF:-1 tvg-id="externallinearfeed-12-04-2019-190935337-12-04-2019" tvg-chno="407" tvg-logo="https://i.mjh.nz/Stirr/.images/externallinearfeed-12-04-2019-190935337-12-04-2019.png" group-title="STIRR",Stingray Rock Alternative
+https://ott-linear-channels.stingray.com/hls/stirr/102.m3u8
+#EXTINF:-1 tvg-id="externallinearfeed-12-04-2019-192438503-12-04-2019" tvg-chno="406" tvg-logo="https://smotret.tv/images/stingray-classic-rock.webp" group-title="STIRR",Stingray Classic Rock
+https://ott-linear-channels.stingray.com/hls/stirr/101.m3u8
+#EXTINF:-1 tvg-id="externallinearfeed-12-04-2019-190655242-12-04-2019" tvg-chno="408" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/c9274ced11768aab7ef96be3a7875727.webp" group-title="STIRR",Stingray Pop Adult
+https://ott-linear-channels.stingray.com/hls/stirr/104.m3u8
+#EXTINF:-1 tvg-id="externallinearfeed-12-04-2019-175616790-12-04-2019" tvg-chno="409" tvg-logo="https://s3-us-west-2.amazonaws.com/klowdtvstorage/herring/images/channels/stingrayMusicUrbanBeats/logo_big.png" group-title="STIRR",Stingray Urban Beats
+https://ott-linear-channels.stingray.com/hls/stirr/133.m3u8
+#EXTINF:-1 tvg-id="externallinearfeed-12-04-2019-185615218-12-04-2019" tvg-chno="411" tvg-logo="https://www.radio.fr/images/broadcasts/b6/58/106645/1/c300.png" group-title="STIRR",Stingray Flashback 70s
+https://ott-linear-channels.stingray.com/hls/stirr/115.m3u8
+#EXTINF:-1 tvg-id="externallinearfeed-12-04-2019-185914490-12-04-2019" tvg-chno="410" tvg-logo="https://broadcastdialogue.com/wp-content/uploads/2020/02/Stingray-Country.jpg" group-title="STIRR",Stingray Hot Country
+https://ott-linear-channels.stingray.com/hls/stirr/108.m3u8
+#EXTINF:-1 tvg-id="externallinearfeed-12-04-2019-184749725-12-04-2019" tvg-chno="412" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/219e8c232cd51df76182fee9cf2e90ba.webp" group-title="STIRR",Stingray Everything 80s
+https://ott-linear-channels.stingray.com/hls/stirr/128.m3u8
+#EXTINF:-1 tvg-id="externallinearfeed-12-04-2019-12-04-2019" tvg-chno="413" tvg-logo="https://www.stingray.com/sites/www.stingray.com/files/stingray-pop-tv-channel.jpeg" group-title="STIRR",Stingray Today's Latin Pop
+https://ott-linear-channels.stingray.com/hls/stirr/190.m3u8
+#EXTINF:-1 tvg-logo="https://clubbingtv.com/wp-content/uploads/2021/01/clubbingmix_blanc.png" ,Clubbing 
 https://clubbingtv-rakuten.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo=" https://www.tv-direct.fr/assets/logo/chaines/bblack-caribbean.jpg " ,BBlack Caribean
+#EXTINF:-1 tvg-logo="https://www.planetecsat.com/wp-content/uploads/2022/11/bblack-carribean.png" ,BBlack Caribean
 http://edge16.vedge.infomaniak.com/livecast/ik:bblackcaribbean/chunklist_w1236483866.m3u8
-#EXTINF:-1 tvg-logo=" https://www.tv-direct.fr/assets/logo/chaines/bblack-classik.jpg " ,BBlack Classic
-http://edge11.vedge.infomaniak.com/livecast/ik:bblackclassik/chunklist_w354492575.m3u8
-#EXTINF:-1 tvg-logo=" https://www.tv-direct.fr/assets/logo/chaines/bblack-africa.jpg " ,BBlack AFRICA
+#EXTINF:-1 tvg-logo="https://www.planetecsat.com/wp-content/uploads/2022/11/bblack-africa.png" ,BBlack AFRICA
 http://edge19.vedge.infomaniak.com/livecast/ik:bblackafrica/chunklist_w1620695393.m3u8
-#EXTINF:-1 tvg-logo=" https://www.tv-direct.fr/assets/logo/chaines/bblack-caribbean.jpg " ,BBlack Caribean
-http://edge16.vedge.infomaniak.com/livecast/ik:bblackcaribbean/chunklist_w1236483866.m3u8
-#EXTINF:-1 tvg-logo=" https://www.tv-direct.fr/assets/logo/chaines/bblack-classik.jpg " ,BBlack Classic
+#EXTINF:-1 tvg-logo="https://www.monpetitforfait.com/comparateur-box-internet/wp-content/uploads/2020/06/bblack-classic-logo-1.png" ,BBlack Classic
 http://edge11.vedge.infomaniak.com/livecast/ik:bblackclassik/chunklist_w354492575.m3u8
-#EXTINF:-1 tvg-logo=" https://www.tv-direct.fr/assets/logo/chaines/bblack-africa.jpg " ,BBlack AFRICA
-http://edge19.vedge.infomaniak.com/livecast/ik:bblackafrica/chunklist_w1620695393.m3u8
 #EXTINF:-1 group-title="Music" tvg-logo="https://cdn.mitvstatic.com/channels/ar_musictop_m.png",MusicTop (720p)
 http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8
 #EXTINF:-1 group-title="Music" tvg-logo="https://i.imgur.com/qiCCX5X.png",Now 70's
