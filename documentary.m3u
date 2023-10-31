@@ -1,28 +1,4 @@
 #EXTM3U
-#EXTINF:-1 group-title="Documentary" tvg-logo="https://i.imgur.com/fNA00VF.png",National Geographic Abu Dhabi 🇸🇦
-https://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="AlJazeeraDocumentary.qa" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e6/Al_Jazeera_Doc.png" group-title="News",Al Jazeera Documentary 🇸🇦
-https://live-hls-web-ajd.getaj.net/AJD/index.m3u8
-#EXTINF:-1 group-title="BEIN Movies" tvg-logo="http://w.bs-share.com:8000/images/2e99aaecbd56167ee447cb9bd309ba64.png",BEIN Nat Geo Wild 🇸🇦
-http://w.bs-share.com:8000/247179867825237/23141543216575/23794
-#EXTINF:-1 tvg-id="KaifaTV.jo" tvg-logo="https://i.imgur.com/zGGeSQg.png" group-title="Undefined",Kaifa TV 🇸🇦
-http://82.212.74.2:8000/live/7311.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/neaDe2i.png" group-title="Undefined",Syria Documentary 🇸🇦
-http://vod.ortas.sy:1935/oLive/sedu05042022/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/BMUMW7A.jpeg" group-title="Undefined",Love Nature 4K 🇬🇧
-https://d18dyiwu97wm6q.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/LoveNature4K2-prod/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/G5PkGdT.jpeg" group-title="Undefined",Better nature 🇬🇧
-https://uni10rtmp.tulix.tv/betternature/betternature.stream/playlist.m3u8
-#EXTINF:-1 group-title="Documentary" tvg-logo="https://i.imgur.com/MwuIHbX.png",Pluto TV Biography 🇬🇧
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5d4af2a24f1c5ab2d298776b/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
-#EXTINF:-1 group-title="Documentary" tvg-logo="https://i.imgur.com/N00seOn.png",Pluto TV Animals 🇬🇧
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/56b27f85ff3037045055037e/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=56b27f85ff3037045055037e&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=666&terminate=false&userId=
-#EXTINF:-1 group-title="Documentary" tvg-logo="https://i.imgur.com/KuPue6S.png",Pluto TV Animals 🇬🇧
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ddf8ea0d000120009bcad83/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5ddf8ea0d000120009bcad83&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=550&terminate=false&userId=
-#EXTINF:-1 group-title="Documentary;News" tvg-logo="https://i.imgur.com/o9AYq9V.png",The Guardian 🇬🇧
-https://0d0239e437124ddcb8090d815caf4013.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Samsung-gb_TheGuardianChannel/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/fTUeIOY.jpeg" group-title="Undefined",Xplore TV 🇫🇷
-https://alchimie-explorebytvplayer-fr-rakuten.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="Documentary" tvg-logo="https://i.imgur.com/QwEpDY9.png",Pluto TV Crime 🇫🇷
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ea18cd42ee5410007e349dc/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5ea18cd42ee5410007e349dc&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=200&terminate=false&userId=
 #EXTINF:-1 group-title="Documentary" tvg-logo="https://i.imgur.com/IjtaG1m.png",Crime 360 🇫🇷
@@ -33,22 +9,41 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/60925a44f035060007
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/59c01b1953680139c6ae9d4d/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=59c01b1953680139c6ae9d4d&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=678&terminate=false&userId=
 #EXTINF:-1 group-title="Travel" tvg-logo="https://i.imgur.com/8KQirah.png",Travel XP 🇫🇷
 https://travelxp-travelxp-1-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="Undefined" tvg-logo="https://i.imgur.com/fTUeIOY.jpeg",Xplore TV 🇫🇷
+https://alchimie-explorebytvplayer-fr-rakuten.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="Farcies TNT" tvg-logo="http://w.bs-share.com:8000/images/76c0323e99ebe06f51805c257981d468.png",[FR]: ANIMAUX HD 🇫🇷
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/60925a44f0350600075a1fdc/master.m3u8?deviceId=0&deviceVersion=0&appVersion=0&deviceType=0&deviceMake=0&sid=16e1&deviceDNT=0&deviceModel=0
+#EXTINF:-1 group-title="Documentary" tvg-logo="https://i.imgur.com/fNA00VF.png",National Geographic Abu Dhabi 🇸🇦
+https://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/playlist.m3u8
+#EXTINF:-1 group-title="News" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e6/Al_Jazeera_Doc.png",Al Jazeera Documentary 🇸🇦
+https://live-hls-web-ajd.getaj.net/AJD/index.m3u8
+#EXTINF:-1 group-title="Undefined" tvg-logo="https://i.imgur.com/zGGeSQg.png",Kaifa TV 🇸🇦
+http://82.212.74.2:8000/live/7311.m3u8
+#EXTINF:-1 group-title="Undefined" tvg-logo="https://imgur.com/neaDe2i.png",Syria Documentary 🇸🇦
+http://vod.ortas.sy:1935/oLive/sedu05042022/playlist.m3u8
+#EXTINF:-1 group-title="Undefined" tvg-logo="https://i.imgur.com/BMUMW7A.jpeg",Love Nature 4K 🇬🇧
+https://d18dyiwu97wm6q.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/LoveNature4K2-prod/playlist.m3u8
+#EXTINF:-1 group-title="Documentary" tvg-logo="https://i.imgur.com/MwuIHbX.png",Pluto TV Biography 🇬🇧
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5d4af2a24f1c5ab2d298776b/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+#EXTINF:-1 group-title="Documentary" tvg-logo="https://i.imgur.com/N00seOn.png",Pluto TV Animals 🇬🇧
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/56b27f85ff3037045055037e/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=56b27f85ff3037045055037e&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=666&terminate=false&userId=
+#EXTINF:-1 group-title="Documentary" tvg-logo="https://i.imgur.com/KuPue6S.png",Pluto TV Animals 🇬🇧
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ddf8ea0d000120009bcad83/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5ddf8ea0d000120009bcad83&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=550&terminate=false&userId=
+#EXTINF:-1 group-title="Documentary;News" tvg-logo="https://i.imgur.com/o9AYq9V.png",The Guardian 🇬🇧
+https://0d0239e437124ddcb8090d815caf4013.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Samsung-gb_TheGuardianChannel/playlist.m3u8
 #EXTINF:-1 group-title="Documentary" tvg-logo="https://i.imgur.com/bbqk8XO.png",Voyager Documentaries 🇪🇸
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxvoyager/CDN/playlist.m3u8
 #EXTINF:-1 group-title="Documentary;Science" tvg-logo="https://i.imgur.com/HQxKLlK.png",Xtrema Animal 🇪🇸
 https://stmv1.cnarlatam.com/xtremaanimal/xtremaanimal/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://vodkom.com:25461/Logo/PICONS/ANIMAL_PLANET_HD.png",Animal Planet 🇪🇸
+#EXTINF:-1  tvg-logo="http://vodkom.com:25461/Logo/PICONS/ANIMAL_PLANET_HD.png",Animal Planet 🇪🇸
 http://45.179.140.242:8000/play/a0i9
-#EXTINF:-1 tvg-logo="http://vodkom.com:25461/Logo/ALL/Discovery_HD.png",Discovery Channel 🇪🇸
+#EXTINF:-1  tvg-logo="http://vodkom.com:25461/Logo/ALL/Discovery_HD.png",Discovery Channel 🇪🇸
 http://45.179.140.242:8000/play/a0i8
-#EXTINF:-1 http://vodkom.com:25461/Logo/HUNGARY/ID_INVESTIGATION_DISCOVERY.png" ,Discovery ID 🇪🇸
+#EXTINF:-1 ,Discovery ID 🇪🇸
 http://45.179.140.242:8000/play/a0jg
-#EXTINF:-1 tvg-logo="http://vodkom.com:25461/Logo/UK/LOGO/Discovery_Turbo.png" ,Discovery Turbo 🇪🇸
+#EXTINF:-1  tvg-logo="http://vodkom.com:25461/Logo/UK/LOGO/Discovery_Turbo.png",Discovery Turbo 🇪🇸
 http://45.179.140.242:8000/play/a0hi
-#EXTINF:-1 tvg-logo="http://vodkom.com:25461/Logo/HUNGARY/HISTORY_HD.png" ,History Channel 🇪🇸
+#EXTINF:-1  tvg-logo="http://vodkom.com:25461/Logo/HUNGARY/HISTORY_HD.png",History Channel 🇪🇸
 http://45.179.140.242:8000/play/a0ju
-#EXTINF:-1 tvg-logo="http://vodkom.com:25461/Logo/HUNGARY/NAT_GEO_HD.png" ,Nat Geo 🇪🇸
+#EXTINF:-1  tvg-logo="http://vodkom.com:25461/Logo/HUNGARY/NAT_GEO_HD.png",Nat Geo 🇪🇸
 http://45.179.140.242:8000/play/a0h2
-
