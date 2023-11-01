@@ -13,6 +13,14 @@ https://travelxp-travelxp-1-eu.rakuten.wurl.tv/playlist.m3u8
 https://alchimie-explorebytvplayer-fr-rakuten.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="Farcies TNT" tvg-logo="http://w.bs-share.com:8000/images/76c0323e99ebe06f51805c257981d468.png",[FR]: ANIMAUX HD 🇫🇷
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/60925a44f0350600075a1fdc/master.m3u8?deviceId=0&deviceVersion=0&appVersion=0&deviceType=0&deviceMake=0&sid=16e1&deviceDNT=0&deviceModel=0
+#EXTINF:-1 tvg-name="" group-title="Documentários" tvg-logo="https://prod-kuato.rakuten.tv/favicon.ico",🇧🇷🇺🇸 ➾ Rakuten Documentaries [Rakuten]
+https://rakuten-documentaries-14-pt.samsung.wurl.tv/3000.m3u8
+#EXTINF:-1 tvg-name="" group-title="Portugal" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/bbc%20home%26garden.png",🇬🇧 ➾ BBC Home & Garden [Pluto]
+https://bit.ly/3xGj8e5?/index.m3u8
+#EXTINF:-1 tvg-id="" group-title="wild life" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/National%20Geographic%20Wild.png",🇺🇸 ➾ Nat Geo Wildᴴᴰ
+https://bit.ly/45HQebV?/index.m3u8
+#EXTINF:-1 tvg-name="" group-title="wild life" tvg-id="5f1213ba0ecebc00070e170f" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/lovenature.png",🇧🇷⭐ ➾ Love Nature
+https://bit.ly/3HNWe8N?/playlist_1280x720_3000k.m3u8
 #EXTINF:-1 group-title="Documentary" tvg-logo="https://i.imgur.com/fNA00VF.png",National Geographic Abu Dhabi 🇸🇦
 https://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/playlist.m3u8
 #EXTINF:-1 group-title="News" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e6/Al_Jazeera_Doc.png",Al Jazeera Documentary 🇸🇦
