@@ -44,17 +44,13 @@ http://185.236.229.50:8002/play/a00k
 #EXTINF:-1 group-title="Egypt" tvg-logo="http://w.bs-share.com:8000/images/3d3352521c293cadcc08151db15c168e.png",NILE SPORT EGY
 http://w.bs-share.com:8000/247179867825237/23141543216575/8748
 #EXTINF:-1 group-title="SPORT AR" tvg-logo="http://w.bs-share.com:8000/images/80bb61ca31ddd00d1b79f88129c2de88.png",Ontime Sports 1 HD
-http://w.bs-share.com:8000/247179867825237/23141543216575/245623
+http://185.236.229.50:8001/play/a042
 #EXTINF:-1 group-title="SPORT AR" tvg-logo="http://w.bs-share.com:8000/images/80bb61ca31ddd00d1b79f88129c2de88.png",Ontime Sports 2 HD
-http://w.bs-share.com:8000/247179867825237/23141543216575/245624
+http://185.236.229.50:8001/play/a044
 #EXTINF:-1 group-title="SPORT AR" tvg-logo="http://w.bs-share.com:8000/images/80bb61ca31ddd00d1b79f88129c2de88.png",ONTIME-SPORTS 3 HD
-http://w.bs-share.com:8000/247179867825237/23141543216575/422866
+http://185.236.229.50:8001/play/a046
 #EXTINF:-1 group-title="SPORT AR" tvg-logo="https://imgur.com/BniV7WX.png",Alahly TV
 http://185.236.229.50:8003/play/a00d
-#EXTINF:-1 group-title="SPORT AR" tvg-logo="http://w.bs-share.com:8000/images/a2faa65d60a37776b85d9ddea54d682a.png",Zamalek TV
-http://w.bs-share.com:8000/247179867825237/23141543216575/256019
-#EXTINF:-1 group-title="SPORT AR" tvg-logo="https://imgur.com/RsYVwOL.png",OMAN Sport
-http://w.bs-share.com:8000/247179867825237/23141543216575/256019
 #EXTINF:-1 group-title="SPORT AR" tvg-logo="https://imgur.com/a81I4uf.png",YAS Sport
 http://192.168.10.67:1935/nile/yas/playlist.m3u8
 #EXTINF:-1 group-title="SPORT AR" tvg-logo="https://i.imgur.com/2EmrZPQ.png",Jordan Sport
