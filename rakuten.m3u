@@ -1,0 +1,51 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://apps.oxatis.com/Files/112496/Img/12/Apps-Rakuten.png" ,RAKUTEN TV BBC Drama (720p)
+https://bbceu-bbcdrama-1-fr.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://apps.oxatis.com/Files/112496/Img/12/Apps-Rakuten.png" ,RAKUTEN TV Films Drames (720p)
+https://rakuten-tvshows-7-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://apps.oxatis.com/Files/112496/Img/12/Apps-Rakuten.png" ,RAKUTEN TV Films Drames (720p)
+https://rakuten-tvshows-7-fr.plex.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://apps.oxatis.com/Files/112496/Img/12/Apps-Rakuten.png" ,RAKUTEN TV Films Français (720p)
+https://rakuten-films-francais-1-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://apps.oxatis.com/Files/112496/Img/12/Apps-Rakuten.png" ,RAKUTEN TV Films Thriller (720p)
+https://rakuten-thriller-7-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://apps.oxatis.com/Files/112496/Img/12/Apps-Rakuten.png" ,RAKUTEN TV Gusto.tv
+https://gustotv-gustotv-2-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://apps.oxatis.com/Files/112496/Img/12/Apps-Rakuten.png" ,RAKUTEN TV L'Atelier des Chefs (720p)
+https://alchimie-ateliersdeschefs-rakuten.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://apps.oxatis.com/Files/112496/Img/12/Apps-Rakuten.png" ,RAKUTEN TV Romance (720p)
+https://rakuten-romance-7-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://apps.oxatis.com/Files/112496/Img/12/Apps-Rakuten.png" ,RAKUTEN TV Romance (720p)
+https://rakuten-romance-7-fr.plex.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://apps.oxatis.com/Files/112496/Img/12/Apps-Rakuten.png" ,RAKUTEN TV Viki Europe (720p)
+https://newidco-rakutenviki-2-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.lefilmfrancais.com/images/com_papyrus/e946ee9666951ab0f9af43ac45930ea8.jpg"  ,UniversCiné Le Meilleur du Cinéma (1080p)
+https://amg01259-lemeilleurducin-universcine-rakuten-bifrz.amagi.tv/hls/amagi_hls_data_rakutenAA-universcine-rakuten/CDN/master.m3u8
+#EXTINF:-1 tvg-logo="https://www.megazap.fr/photo/art/grande/59510362-43715818.jpg"	 ,Zylo Ciné Nanar
+https://zylo-cinenanar-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-zylo-cinenanar-rakuten/CDN/master.m3u8
+#EXTINF:-1 tvg-logo="https://www.planetecsat.com/wp-content/uploads/2022/09/emotionl.png"  ,Zylo Emotion' L
+https://amg00711-zylo-france-zylo-emotional-rakuten-frukp.amagi.tv/hls/amagi_hls_data_rakutenAA-zylo-emotional-rakuten/CDN/master.m3u8
+#EXTINF:-1 tvg-logo="https://www.planetecsat.com/wp-content/uploads/2022/10/scream.png"  ,Zylo ScreamIN
+https://zylo-screamin-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-zylo-screamin-rakuten/CDN/master.m3u8
+#EXTINF:-1 tvg-logo="https://apps.oxatis.com/Files/112496/Img/12/Apps-Rakuten.png" ,RAKUTEN Serie Crime (720p)
+https://rakuten-seriescrime-7-fr.lg.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://apps.oxatis.com/Files/112496/Img/12/Apps-Rakuten.png" ,RAKUTEN Guardian (720p)
+https://rakuten-guardian-1-fr.lg.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://apps.oxatis.com/Files/112496/Img/12/Apps-Rakuten.png" ,RAKUTEN Viki (720p)
+https://newidco-rakutenviki-2-fr.lg.wurl.tv/playlist.m3u8
+#EXTINF:-1 ,FilmStream Europe (1080p)
+https://spi-filmstream-1-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 ,Humanity Documentaries (720p)
+https://alchimie-humanity-documentaries-fr-rakuten.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://apps.oxatis.com/Files/112496/Img/12/Apps-Rakuten.png" ,RAKUTEN Action Movies (720p)
+https://rakuten-actionmovies-7-fr.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://apps.oxatis.com/Files/112496/Img/12/Apps-Rakuten.png" ,RAKUTEN Comedy Movies (720p)
+https://rakuten-comedymovies-7-fr.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://apps.oxatis.com/Files/112496/Img/12/Apps-Rakuten.png" ,RAKUTEN Family (720p)
+https://rakuten-family-7-fr.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://apps.oxatis.com/Files/112496/Img/12/Apps-Rakuten.png" ,RAKUTEN Spotlight (720p)
+https://rakuten-spotlight-7-fr.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://apps.oxatis.com/Files/112496/Img/12/Apps-Rakuten.png" ,RAKUTEN TV Shows (720p)
+https://rakuten-tvshows-7-fr.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 ,Stormcast Novelas TV
+https://stormcast-telenovelatv-1-fr.samsung.wurl.tv/playlist.m3u8
