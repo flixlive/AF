@@ -1,4 +1,3 @@
 #EXTM3U
-#EXTVLCOPT:http-referrer=https://snrtlive.ma/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:109.0) Gecko/20100101 Firefox/117.0
 https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/al_aoula_laayoune/hls_snrt/index.m3u8
+#EXTVLCOPT:http-referrer=https://snrtlive.ma/
